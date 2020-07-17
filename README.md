@@ -1,2 +1,2 @@
-# BH_Resume
+# Blaine Howitt Resume
 2020 Updated Resume
